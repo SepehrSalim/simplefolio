@@ -1,6 +1,6 @@
 ﻿# Simplefolio ⚡️ [![GitHub](https://img.shields.io/github/license/cobidev/simplefolio?color=blue)](https://github.com/cobidev/simplefolio/blob/master/LICENSE.md) ![GitHub stars](https://img.shields.io/github/stars/cobidev/simplefolio) ![GitHub forks](https://img.shields.io/github/forks/cobidev/simplefolio)
 
-## A minimal portfolio template for Developers!!
+## A minimal portfolio template for Developers!
 
 <h2 align="center">
   <img src="https://github.com/cobidev/gatsby-simplefolio/blob/master/examples/example.gif" alt="Simplefolio" width="600px" />
@@ -51,7 +51,7 @@ yarn@v1.21.1 or higher
 
 ---
 
-## How To Use 🔧
+## How to Use 🔧
 
 From your command line, first clone Simplefolio:
 
